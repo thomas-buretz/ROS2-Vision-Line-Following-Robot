@@ -1,6 +1,3 @@
-# ROS2-Vision-Line-Following-Robot
-Vision-based autonomous line tracking using C++, ROS 2, Raspberry Pi, and Arduino Mega.
----
 # ROS 2 Vision-Based Autonomous Line Following Robot
 
 **Florida State University | EEL 4930 – Autonomous Robots | Summer 2024**
